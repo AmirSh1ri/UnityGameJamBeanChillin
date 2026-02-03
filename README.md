@@ -25,7 +25,8 @@ This game was built to practice **scoped feature development, fast iteration, an
 
 ## Project Status
 Finished – Game Jam Submission
-Link to play the game:
+Link to play and or download the game:
+
 https://itch.io/jam/mini-jam-203-flow/rate/4254438
 
 ---
