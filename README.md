@@ -29,10 +29,6 @@ Link to play and or download the game:
 
 https://milkythethird.itch.io/bean-chillin
 
-Link to the submission and ratings:
-
-https://itch.io/jam/mini-jam-203-flow/rate/4254438
-
 ---
 
 ## License
