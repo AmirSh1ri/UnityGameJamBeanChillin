@@ -2,18 +2,38 @@
 
 ## Description
 A single-player Unity game developed for **Mini Jam** within a **3-day game jam**.  
-The project focuses on **rapid prototyping, player movement, obstacle interaction, and gameplay feedback systems** under strict time constraints.
+The project delivers a full gameplay loop including cutscenes, a main menu, an in-game tutorial, an infinite runner core, an ending scene, an upgrade system, dual currencies, and a time-based progression system — all optimized to run in-browser and on low-end PCs via a WebGL build.
 
-This project highlights the ability to scope features effectively, iterate quickly, and deliver a complete gameplay experience within a limited timeframe.
+This project highlights the ability to scope, build, and polish a complete feature-rich game under strict time constraints.
+
+---
+
+## Screenshots and Gameplay
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b910484c-29b6-470d-9040-087c69840cdd" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8434c8b2-5f21-49b5-90af-7fe052dbad01" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76a2ae8f-21f5-4f1a-91fc-f153f88b2f0b" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ad331ac9-8ffb-4026-9325-b7cb74a57bbf" width="45%" />
+
+</p>
+
 
 ---
 
 ## Key Features
-- Player movement with physics-based controls  
-- Obstacle and pickup interaction systems  
-- Gameplay-driven visual and audio feedback  
-- Simple UI, tutorial, and game state management  
-- Modular C# scripts designed for fast iteration and flexibility  
+- Cutscenes (intro + ending)
+- Main menu system
+- In-game tutorial
+- Infinite runner gameplay loop
+- Ending scene / lose state
+- Upgrade system
+- Dual currency system
+- Time-based mechanics
+- Browser & low-end PC optimization (WebGL build + windows build)
+- Done solo in 3 days
 
 ---
 
@@ -21,6 +41,7 @@ This project highlights the ability to scope features effectively, iterate quick
 - Unity  
 - C#
 - Blender
+- WebGL
 
 ---
 
@@ -29,7 +50,7 @@ This project highlights the ability to scope features effectively, iterate quick
 Play the game on itch.io:  
 https://milkythethird.itch.io/bean-chillin  
 
-This project represents a complete playable prototype developed in 3 days, focusing on core gameplay and responsiveness rather than content scale.
+This project represents a complete playable prototype developed in 3 days.
 
 ---
 
